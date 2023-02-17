@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Зарегайся</string>
+    <string name="Name">Введите ваше имя!</string>
+    <string name="hintName">Имя</string>
+    <string name="Surname">Введите вашу фамилию</string>
+    <string name="SurnameHint">Фамилия</string>
+    <string name="Start">Отправить</string>
+</resources>
